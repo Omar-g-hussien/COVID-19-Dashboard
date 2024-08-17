@@ -36,10 +36,6 @@ The COVID-19 Impact Dashboard was built entirely using Google Sheets, showcasing
 
 The dashboard provides valuable insights into the pandemic's impact, helping users understand trends and patterns across various demographics and geographies. It serves as a tool for analysis and decision-making, especially in the context of healthcare and public health policy.
 
-## 📥 How to Access the Dashboard
-
-You can view the Google Sheets-based COVID-19 Impact Dashboard [here](#). (Replace with a link to your dashboard or make the dashboard publicly accessible and share the link here.)
-
 ## 💡 Use Cases
 
 The dashboard is a great example of how Google Sheets can be used for data analysis in sectors like:
